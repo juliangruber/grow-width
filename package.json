@@ -1,0 +1,15 @@
+{
+  "name": "grow-width",
+  "repository": "yields/grow-width",
+  "description": "Grow the width of the given input.",
+  "version": "0.2.1",
+  "keywords": ["grow"],
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "events-component-2": "juliangruber/events-1#browserify"
+  },
+  "browser": {
+    "events": "events-component-2"
+  }
+}
